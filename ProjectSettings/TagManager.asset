@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ladder
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - Ladder
+  - Lava
+  - Enemies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3835909061
+    locked: 0
+  - name: Platform
+    uniqueID: 2678279183
+    locked: 0
+  - name: Ladder
+    uniqueID: 1166623921
+    locked: 0
+  - name: Lava
+    uniqueID: 1158909833
+    locked: 0
+  - name: Monster
+    uniqueID: 622031571
+    locked: 0
+  - name: Mushroom
+    uniqueID: 826233303
+    locked: 0
+  - name: Portal
+    uniqueID: 4118867081
+    locked: 0
+  - name: Player
+    uniqueID: 560163643
+    locked: 0
